@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <message
+            id = "1"
+            title = "北京你好"
+            content = "关于对李可可同志的表扬"
+            read_flag = "0"
+            receive_user_id = "2"
+            create_date = "2019-09-14 17:31:20"
+    />
+
+
+    <message
+            id = "2"
+            title = "北京你好1"
+            content = "关于对李可可同志的表扬1"
+            read_flag = "0"
+            receive_user_id = "2"
+            create_date = "2019-09-15 17:31:20"
+    />
+
+    <message
+            id = "3"
+            title = "北京你好2"
+            content = "关于对李可可同志的表扬2"
+            read_flag = "0"
+            receive_user_id = "3"
+            create_date = "2019-09-16 17:31:20"
+    />
+    <message
+            id = "4"
+            title = "你好"
+            content = "关于天气"
+            read_flag = "0"
+            receive_user_id = "2"
+            create_date = "2019-09-17 17:31:20"
+    />
+    <message
+            id = "5"
+            title = "你好1"
+            content = "关于天气1"
+            read_flag = "0"
+            receive_user_id = "2"
+            create_date = "2019-09-18 17:31:20"
+    />
+    <message
+            id = "6"
+            title = "你好2"
+            content = "关于天气2"
+            read_flag = "0"
+            receive_user_id = "3"
+            create_date = "2019-09-19 17:31:20"
+    />
+
+</dataset>
